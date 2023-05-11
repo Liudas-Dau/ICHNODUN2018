@@ -1,0 +1,14 @@
+#Ula1_gitija1
+clam("Ula1_gitija1",type=1,cc=1, cc1="IntCal13.14C",coredir = "Age_depth//Cores")
+ - tiesinis modelis
+ - Fit: 2.32
+#Ula1_gitija2
+clam("Ula1_gitija2",type=2,smooth=2,cc=1, cc1="IntCal13.14C",coredir = "Age_depth//Cores")
+ - Antro laipsnio polinominis modelis. Pjūvio apačioje yra intervalas, kur mėginiai į viršų senėja
+ - Fit: 2.28
+#Ula1_gitija3
+clam("Ula1_gitija3",type=3,cc=1, cc1="IntCal13.14C",coredir = "Age_depth//Cores")
+ - Kubinis spline modelis. Pjūvio apačioje yra intervalas, kur mėginiai į viršų senėja
+ - Fit: 2.3
+
+# Mažesnis Fit - geresnis modelis.
